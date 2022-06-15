@@ -11,7 +11,7 @@ spec:
       selfHeal: true
   project: myproject-production
   source:
-    repoURL: git@github.com:melalj/gitops-sample.git
+    repoURL: git@github.com:env-test/gitops-sample.git
     targetRevision: HEAD
     path: charts/app/myproject-api
     helm:

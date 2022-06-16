@@ -1,6 +1,6 @@
 image:
   repository: env-test/myproject-api
-  tag: "production-f02335c" # 2022-06-16T07:22:58Z https://circleci.com/gh/env-test/myproject-api/8
+  tag: "production-2230009" # 2022-06-16T07:44:37Z https://circleci.com/gh/env-test/myproject-api/16
 
 containerPort: 80
 

@@ -1,6 +1,6 @@
 image:
   repository: env-test/myproject-frontend
-  tag: "production-49526e8" # 2022-06-16T07:17:15Z https://circleci.com/gh/env-test/myproject-frontend/10
+  tag: "production-879ed13" # 2022-06-16T07:49:53Z https://circleci.com/gh/env-test/myproject-frontend/12
 
 containerPort: 80
 

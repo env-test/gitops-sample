@@ -9,7 +9,7 @@ metadata:
 data:
   repositories: |
     - name: gitops-sample
-      url: git@github.com:melalj/gitops-sample.git # change this to your gitops repo
+      url: git@github.com:env-test/gitops-sample.git # change this to your gitops repo
       type: git
       insecure: true 
       insecureIgnoreHostKey: true

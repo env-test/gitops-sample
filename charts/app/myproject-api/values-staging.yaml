@@ -1,6 +1,6 @@
 image:
   repository: env-test/myproject-api
-  tag: "staging-7df857f" # 2022-06-16T09:08:02Z https://circleci.com/gh/env-test/myproject-api/22
+  tag: "staging-7df857f" # 2022-06-16T09:36:23Z https://circleci.com/gh/env-test/myproject-api/24
 
 containerPort: 80
 

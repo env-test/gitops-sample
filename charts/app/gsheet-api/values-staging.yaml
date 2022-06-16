@@ -1,6 +1,6 @@
 image:
-  repository: env-test/gsheet-api
-  tag: "1.1.2"
+  repository: melalj/gsheet-api
+  tag: "latest"
 
 deployment:
   env:
